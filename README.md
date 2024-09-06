@@ -11,7 +11,7 @@ former. Image patches are treated the same way as tokens (words) in an NLP appli
 the model on image classification in supervised fashion
 
 ### Files
-
+ 
 `src/utils.py`: Provides functionality for saving models.
 
 `vit.py`: Contains the Vision Transformer model definition.

@@ -29,7 +29,7 @@ the model on image classification in supervised fashion
 
 ### Citations
 
-This project attempts to replicate the official Vision Transformer model (ViT) as described in the paper, ["A Image is worth 16 x 16 words"](https://arxiv.org/pdf/2010.11929)
+This project attempts to replicate the official Vision Transformer model (ViT) as described in the paper:    ["A Image is worth 16 x 16 words"](https://arxiv.org/pdf/2010.11929)
 by Alexey Dosovitskiy, et al. (2020). The Vision Transformer (ViT) paper introduces a novel approach to image classification using transformers, which this project aims to replicate.
 
 

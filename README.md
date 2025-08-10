@@ -1,4 +1,4 @@
-#### Implemention of  Vision Transformer (ViT) from Scratch
+#### Implemention of  Vision Transformer (ViT) from Scratch 
 
 ### Overview
 
